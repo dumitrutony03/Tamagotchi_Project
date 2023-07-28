@@ -8,6 +8,7 @@ Visual Studio Code ( or Android Studio ) : https://docs.flutter.dev/tools/vs-cod
 Flutter and Firebase installation : https://firebase.google.com/docs/flutter/setup?platform=ios
 
 It is a prototype for Tamagotchi game, containing basic UI and backend interaction.
+
 =======
 # api
 
