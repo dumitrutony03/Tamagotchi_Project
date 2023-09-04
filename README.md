@@ -9,4 +9,6 @@ Flutter and Firebase installation : https://firebase.google.com/docs/flutter/set
 
 It is a prototype for Tamagotchi game, containing basic UI and backend interaction.
 
+https://github.com/dumitrutony03/Tamagotchi_Project/assets/63789531/64953800-64e6-4399-92ba-cec05665de3e
+
 =======
